@@ -4,5 +4,5 @@ plugins {
 }
 
 subprojects {
-    group = "org.mcwonderland.castlewars"
+    group = "me.lulu.bungeepractice"
 }
