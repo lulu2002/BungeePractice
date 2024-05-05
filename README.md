@@ -5,6 +5,9 @@ Welcome to BungeePractice Plugin!
 ## Introduction
 This is a practice plugin designed to work across BungeeCord networks. Its main goal is to support both 1.8 and 1.9 combat systems.
 
+## Development Stage
+Please note that this plugin is still in the development stage. While it is functional, there may be bugs or incomplete features. Your feedback and contributions are highly appreciated as we work towards a stable release.
+
 ## Features
 - Cross BungeeCord compatibility
 - Supports 1.8 and 1.9 combat systems
